@@ -1,0 +1,4 @@
+Q1 -  Can you explain the benefits of using a virtual environment for python applications?
+1. Dependency Isolation: For example, one project can use Flask 2.0 while another uses Flask 3.0 on the same machine without any conflicts.
+2. Avoid accidentally breaking your operating system's global Python installation.
+3. Easy Cleanup: If you no longer need a project, you can simply delete the virtual environment folder to remove all its libraries.
